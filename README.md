@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @qwerroaaa, i'm from Tomsk, Russia.
+# 👋 Hi, I’m @qwerroaaa, i'm from Tomsk, Russia.
 - 💪 My goal is to become .Net developer and keep working on it.
 
 
