@@ -10,8 +10,10 @@
 ![git](https://github.com/qwerroaaa/qwerroaaa/assets/127934860/288578de-de2e-47c8-ad57-784f17a93f98)
 ![c-](https://github.com/qwerroaaa/qwerroaaa/assets/127934860/aac63162-7fa2-446d-a563-3c84cf6c0d5e)
 
+# ✨Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qwerroaaa)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=qwerroaaa)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 qwerroaaa/qwerroaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
