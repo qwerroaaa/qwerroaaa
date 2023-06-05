@@ -1,4 +1,9 @@
-# 🤙 Hi, I’m [Andrey](https://github.com/qwerroaaa)
+<p align="center"><h3 align="center">Hi, I’m Andrey</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=.Net+Developer+👨‍💻&font=Fira%20Code&center=true&width=380&height=50">
+</p>
+
 - 🟪 i'm from Tomsk, Russia.
 - 💪 My goal is to become __.Net developer__ and keep working on it.
 
