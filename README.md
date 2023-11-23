@@ -1,7 +1,7 @@
 <p align="center"><h2 align="center">Hi, I’m Andrey</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=.Net+Developer+👨‍💻&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+!+👨‍💻&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 
 - 🟪 i'm from Tomsk, Russia.
