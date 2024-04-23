@@ -22,12 +22,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=qwerroaaa)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2>Courses</h2>
 
-|Site|Name course|
-|----|-----------|
-|Stepik|HTML/CSS|
-|Stepik|C#|
 
 
 <!---
