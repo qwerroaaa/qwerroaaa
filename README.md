@@ -5,7 +5,7 @@
 </p>
 
 - 🟪 i'm from Tomsk, Russia.
-- 💪 My goal is to become __.Net developer__ and keep working on it.
+- 💪 My goal is to become __Java developer__ and keep working on it.
 
 <h2>⚛️ My Tech Stack:</h2>
 
